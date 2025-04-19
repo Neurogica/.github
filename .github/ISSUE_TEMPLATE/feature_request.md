@@ -4,6 +4,7 @@ about: 新しい機能の追加や改善提案を行うためのテンプレー�
 title: "[Feature Request] "
 labels: enhancement
 assignees: ''
+estimate: ''
 
 ---
 
