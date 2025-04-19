@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: 🐛 バグ報告
+    description: システムのバグを報告するためのテンプレート
+    file: bug_report.md
+  - name: 💡 機能提案
+    description: 新しい機能のアイディアを提案するためのテンプレート
+    file: feature_request.md
