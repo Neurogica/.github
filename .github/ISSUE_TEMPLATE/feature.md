@@ -1,7 +1,7 @@
 ----
 name: 機能要望
 about: プロジェクトに追加したい具体的な機能を提案するためのテンプレート
-title: "[FEATURE] 機能名"
+title: "[FEATURE] "
 labels: feature
 assignees: ""
 ---

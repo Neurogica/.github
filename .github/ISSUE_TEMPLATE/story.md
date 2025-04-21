@@ -1,7 +1,7 @@
 ---
 name: ストーリー
 about: ユーザー視点での価値や体験を記述するためのテンプレート
-title: "[STORY] 〜をする、〜をしたい"
+title: "[STORY] "
 labels: story
 assignees: ""
 ---

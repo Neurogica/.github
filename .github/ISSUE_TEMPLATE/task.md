@@ -1,7 +1,7 @@
 ---
 name: タスク
 about: タスクを作成する
-title: "[TASK] タスク内容"
+title: "[TASK] "
 labels: ""
 assignees: ""
 ---
